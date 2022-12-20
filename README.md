@@ -12,7 +12,7 @@
 ## MOSHPIT: Multiallelic Outbred-Strain Haplotype Phasing and Inference Tool
 
 <p align="center">
-  <img width="50%" src="resources/mosh.png">
+  <img width="35%" src="resources/mosh.png">
 </p>
 
 Currently in development, MOSHPIT aims to be the tool used for complex variant phasing and inference. This is my brainchild and the crux of my M.S. thesis, and was developed to fill the gap left by tools that exclusively phase SNPs (i.e. ShapeIt) and those which have prohibitive runtime consequences at scale (i.e. Beagle). Built on CλHMML (below), expect a streamlined experience with support for SNPs, STRs, Indels, and (soon) SVs!
@@ -22,7 +22,7 @@ Coming soon [here](https://github.com/gymreklab/MOSHPIT).
 ## CλHMML: Custom-Lambda Hidden Markov Model Library
 
 <p align="center">
-  <img width="50%" src="resources/cahmml.png">
+  <img width="35%" src="resources/cahmml.png">
 </p>
 
 Releasing in January 2023, CλHMML provides a Hidden Markov Model architecture built with long sequences and non-standard emission/transition probabilities in mind. Read more about it in its repository [here](https://github.com/gymreklab/CAHHML).
