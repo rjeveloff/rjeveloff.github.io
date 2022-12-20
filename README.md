@@ -4,7 +4,7 @@
 **Contact:** rjeveloff (at) gmail (dot) com
 
 <p align="center">
-<a href="resources/CV.pdf">CV</a> | <a href="resource/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/rjeveloff/">LinkedIn</a>
+<a href="resources/CV.pdf">CV</a> | <a href="resources/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/rjeveloff/">LinkedIn</a>
 </p>
 
 # Projects
