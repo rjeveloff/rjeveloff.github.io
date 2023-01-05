@@ -25,7 +25,7 @@ Coming soon [here](https://github.com/gymrek-lab/MOSHPIT).
   <img width="35%" src="resources/cahmml.png">
 </p>
 
-Releasing in January 2023, CλHMML provides a Hidden Markov Model architecture built with long sequences and non-standard emission/transition probabilities in mind. Read more about it in its repository [here](https://github.com/gymrek-lab/CAHHML).
+Released in January 2023, CλHMML provides a Hidden Markov Model architecture built with long sequences and non-standard emission/transition probabilities in mind. Read more about it in its repository [here](https://github.com/gymrek-lab/CAHHML).
 
 ## Bioinformatics Algorithms: An Active Learning Approach
 
